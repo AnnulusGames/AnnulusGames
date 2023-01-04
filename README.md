@@ -9,3 +9,4 @@ Tools & Utilities for Unity
 ### Repositories
 
 - [Lucid Input](https://github.com/AnnulusGames/LucidInput)
+- [Lucid Random](https://github.com/AnnulusGames/LucidRandom)
