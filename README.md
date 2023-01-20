@@ -1,3 +1,7 @@
+## Stats
+[![stats-dark](https://github-readme-stats.vercel.app/api?username=AnnulusGames&show_icons=true&count_private=true&theme=monokai#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![stats-light](https://github-readme-stats.vercel.app/api?username=AnnulusGames&show_icons=true&count_private=true&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 ## Lucid Tools
 
 Tools & Utilities for Unity
