@@ -15,3 +15,4 @@ Tools & Utilities for Unity
 - [Lucid Input](https://github.com/AnnulusGames/LucidInput)
 - [Lucid Random](https://github.com/AnnulusGames/LucidRandom)
 - [Lucid Audio](https://github.com/AnnulusGames/LucidAudio)
+- [Lucid Editor](https://github.com/AnnulusGames/LucidEditor)
