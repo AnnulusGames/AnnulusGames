@@ -16,3 +16,9 @@ Tools & Utilities for Unity
 - [Lucid Random](https://github.com/AnnulusGames/LucidRandom)
 - [Lucid Audio](https://github.com/AnnulusGames/LucidAudio)
 - [Lucid Editor](https://github.com/AnnulusGames/LucidEditor)
+
+## Other Packages
+
+<img src="https://github.com/AnnulusGames/TweenPlayables/blob/main/Assets/TweenPlayables/Documentation~/Header.png" width="600">
+
+[Tween Playables](https://github.com/AnnulusGames/TweenPlayables)
