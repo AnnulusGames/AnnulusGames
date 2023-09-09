@@ -10,6 +10,8 @@ Extremely fast tween library implemented in Unity ECS
 
 <img src="https://github.com/AnnulusGames/MagicTween/blob/main/MagicTween/Assets/MagicTween/Documentation~/Header.png" width="600">
 
+https://github.com/AnnulusGames/MagicTween
+
 ## Lucid Tools
 
 Tools & Utilities for Unity
